@@ -8,9 +8,9 @@ Uma escola precisa controlar as matrículas dos novos alunos que estão chegando
 - [x] Data de Nascimento --
 - [x] Nome do Responsável --
 - [x] Endereço --
-- [ ] Telefone para contato
+- [x] Telefone para contato
 - [x] Observações para contato
-- [ ] Usar métodos orientados a objetos
+- [x] Usar métodos orientados a objetos
 
 O usuário deve ser capaz de cadastrar quantos alunos desejar
 
