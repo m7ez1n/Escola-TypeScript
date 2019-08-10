@@ -16,14 +16,14 @@ O usuário deve ser capaz de cadastrar quantos alunos desejar
 
 ### Esse mesmo projeto foi feito em Java, e agora está sendo desenvolvido com nodeJS e TypeScript. Já que é o nodeJS é a plataforma que fico mais a vontade e o TypeScript é algo que consigo adicionar a POO. :suspect:
 
-<h3 align="center">
-  Acessem a He4rt :purple_heart:
-</h3>
+<h2 align="center">
+  Acessem a He4rt e a Rocketseat :purple_heart:
+</h2>
 
 <h3 align="center">
   <img src="https://heartdevs.com/wp-content/uploads/2018/12/logo.png" width="215"><br>
     Visite nosso discord, vamo codar junto!! :godmode:
-	<a href="https://discord.gg/J78z3FV" target="_blank">
+	<a href="https://discord.io/He4rt" target="_blank">
 	<img src="https://discordapp.com/api/guilds/452926217558163456/embed.png" alt="Discord server"/></a><br>
 </h3>
 
