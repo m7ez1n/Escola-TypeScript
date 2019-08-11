@@ -11,7 +11,7 @@ const EscolaSchema = new Schema({
     required: true
   },
   alunos: {
-    type: Schema.Types.ObjectId,
+    type: [Schema.Types.ObjectId],
     ref: 'Aluno',
     required: true
   }
