@@ -16,6 +16,8 @@ O usuário deve ser capaz de cadastrar quantos alunos desejar
 
 ### Esse mesmo projeto foi feito em Java, e agora está sendo desenvolvido com nodeJS e TypeScript. Já que é o nodeJS é a plataforma que fico mais a vontade e o TypeScript é algo que consigo adicionar a POO. :suspect:
 
+[Projeto em Java](https://github.com/m7Aei/Escola-Java)
+
 <h2 align="center">
   Acessem a He4rt e a Rocketseat :purple_heart:
 </h2>
