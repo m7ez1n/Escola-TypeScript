@@ -19,7 +19,7 @@ O usuário deve ser capaz de cadastrar quantos alunos desejar
 [Projeto em Java](https://github.com/m7Aei/Escola-Java)
 
 <h2 align="center">
-  Acessem a He4rt e a Rocketseat :purple_heart:
+  Acessem a He4rt :purple_heart:
 </h2>
 
 <h3 align="center">
